@@ -1,0 +1,4 @@
+Place your UPI QR code image here.
+
+This file is a placeholder for your UPI QR code image.
+Replace this with an actual QR code image file for payment processing.
